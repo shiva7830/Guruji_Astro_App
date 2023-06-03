@@ -1,3 +1,4 @@
+Live Project link:- https://inquisitive-buttercream-cf3538.netlify.app/
 # Guruji Astro || Front End Developer || Assignment
 
 ![Screenshot (246)](https://github.com/rajpurnendu/GurujiAstro/assets/72823479/94dffe50-087f-407d-93e1-bd01ca82cce1)
